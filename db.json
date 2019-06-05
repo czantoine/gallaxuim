@@ -1,6 +1,5 @@
 {
   "todos":[
-    [
   {
     "userId": 1,
     "id": 1,
@@ -68,4 +67,4 @@
     "completed": true
   }
 ]
-    ]
+   
